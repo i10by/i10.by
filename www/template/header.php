@@ -2,7 +2,7 @@
     <nav>
         <div class="inner">
             <div class="left">
-                <a href="body" id="logo">i10 DEVELOPERS</a>
+                <a href="body" id="logo">i10</a>
             </div>
             <div class="right">
                 <a href="#advantages">Преимущества</a>
