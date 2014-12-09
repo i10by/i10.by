@@ -13,6 +13,7 @@
     </nav>
     <div class="content">
         <h1>Вы придумываете - мы создаём!</h1>
+        <h1 hidden>Разработка сайтов</h1>
         <button class="zak">Подайте заявку</button>
         <p class="little bold">или позвоните +375 44 5574632</p>
     </div>
