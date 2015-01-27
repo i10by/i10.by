@@ -1,0 +1,15 @@
+User-agent: Yandex
+Disallow: /app
+Allow: /
+Host: i10.by
+
+User-agent: Googlebot
+Disallow: /app
+Allow: /
+
+User-agent: *
+Disallow: /app
+Allow: /
+Crawl-delay: 2
+
+Sitemap: http://i10.by/sitemap.xml

@@ -1,0 +1,10 @@
+.icon-country {
+    float: left;
+    margin-right: 5px;
+    width: 19px;
+    height: 19px;
+    background: no-repeat center;
+}
+.icon-country.bel {
+    background-image: url("../images/flags/bel-flag.png");
+}
