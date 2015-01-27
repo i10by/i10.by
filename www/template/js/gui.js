@@ -20,7 +20,7 @@ $('a').on("click", function() {
 $('.zak').on("click", function() {
     var destination = $('#bid').offset().top;
 
-    $("body,html").animate({"scrollTop": destination}, 250);
+        $("body,html").animate({"scrollTop": destination}, 250);
 
     $('#bid-name').focus();
 

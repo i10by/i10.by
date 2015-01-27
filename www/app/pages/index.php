@@ -2,7 +2,7 @@
     <div class="inner">
         <div class="title">
             <span class="text">
-                 Наши премущества
+                 Наши преимущества
             </span>
         </div>
         <div class="block-line">

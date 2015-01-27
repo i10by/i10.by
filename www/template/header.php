@@ -2,7 +2,7 @@
     <nav>
         <div class="inner">
             <div class="left">
-                <a href="body" id="logo">i10</a>
+                <a href="body" id="logo">i10 group</a>
             </div>
             <div class="right">
                 <a href="#advantages">Преимущества</a>
@@ -15,7 +15,7 @@
         <h1>Вы придумываете - мы создаём!</h1>
         <h1 hidden>Разработка сайтов</h1>
         <button class="zak">Подайте заявку</button>
-        <p class="little bold">или позвоните +375 44 5574632</p>
+        <p class="little bold">или позвоните +375 44 7291268</p>
     </div>
     <div class="image">
         <img width="734" height="355" src="/template/images/header.svg">
