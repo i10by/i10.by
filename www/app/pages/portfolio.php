@@ -1,3 +1,4 @@
+<!--
 <div class="line-block">
     <div class="cont-men">
         <div class="men-pic port"></div>
@@ -10,6 +11,7 @@
         </div>
     </div>
 </div>
+
 <div class="row-cards">
     <div class="card-cover">
         <div class="card">
@@ -28,3 +30,4 @@
         </div>
     </div>
 </div>
+-->

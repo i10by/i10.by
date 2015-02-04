@@ -10,7 +10,7 @@
         <div class="line">
             <div id="nav">
                 <a href="/services">Услуги</a>
-                <a href="/portfolio">Портфолио</a>
+                <!--<a href="/portfolio">Портфолио</a>-->
                 <a href="/contacts">Контакты</a>
                 <a href="/discounts">Скидки</a>
                 <a href="/new" class="right special">Заказать сайт</a>
