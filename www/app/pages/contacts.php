@@ -14,13 +14,13 @@
     <div class="card-cover">
         <div class="card-tip secondary">
             <div class="title">SKYPE</div>
-            <div class="content">i10by</div>
+            <div class="content">i10group</div>
         </div>
     </div>
     <div class="card-cover">
         <div class="card-tip radiant">
             <div class="title">E-MAIL</div>
-            <div class="content">supp@i10.by</div>
+            <div class="content">mail@i10.by</div>
         </div>
     </div>
     <div class="card-cover">
